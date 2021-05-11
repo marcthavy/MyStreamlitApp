@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import streamlit as st
 
-link = 'https://raw.githubusercontent.com/marcthavy/MyStreamlitApp/main/data/Satellites.csv'
+link = 'https://raw.githubusercontent.com/marcthavy/MyStreamlitApp/main/data/'
 
 csv_cc_01 = 'Satellites.csv'
 
